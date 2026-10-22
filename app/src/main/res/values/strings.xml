@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KisanWeather</string>
+    <string name="app_tagline">मौसम और फसल सलाह</string>
+    <string name="tab_weather">मौसम (Weather)</string>
+    <string name="tab_advisory">फसल सलाह (Advisory)</string>
+    <string name="tab_planner">कृषि योजना (Planner)</string>
+    <string name="tab_farm">मेरा खेत (My Farm)</string>
+    <string name="search_hint">जिला या मंडी खोजें (Search district)...</string>
+</resources>

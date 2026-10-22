@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Golden Sun behind cloud -->
+    <!-- Sun disk -->
+    <path
+        android:fillColor="#F9C74F"
+        android:pathData="M 44,38 A 12,12 0 1,0 68,38 A 12,12 0 1,0 44,38 Z" />
+    <!-- Sun rays -->
+    <path
+        android:fillColor="#F9C74F"
+        android:strokeColor="#F9C74F"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M56,22 L56,26 M44,25 L47,28 M68,25 L65,28 M38,36 L41,37 M74,36 L71,37" />
+
+    <!-- White Weather Cloud -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 67,53 A 8,8 0 0,0 52.8,47.2 A 12,12 0 0,0 35,51.5 A 9,9 0 0,0 36,69.5 L 68,69.5 A 8,8 0 0,0 67,53 Z" />
+
+    <!-- Blue Rain drops -->
+    <path
+        android:fillColor="#48CAE4"
+        android:pathData="M 40,73 C 40,73 38,76 38,77 C 38,78.1 38.9,79 40,79 C 41.1,79 42,78.1 42,77 C 42,76 40,73 40,73 Z" />
+    <path
+        android:fillColor="#48CAE4"
+        android:pathData="M 49,74 C 49,74 47,77 47,78 C 47,79.1 47.9,80 49,80 C 50.1,80 51,79.1 51,78 C 51,77 49,74 49,74 Z" />
+
+    <!-- Golden Wheat Plant / Sprout (Crop symbol) -->
+    <!-- Stem -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#E9C46A"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M 70,85 C 69,76 68,65 67,58" />
+    <!-- Wheat grains/leaves -->
+    <path
+        android:fillColor="#E9C46A"
+        android:pathData="M 67,58 C 65,55 68,52 71,54 C 71,56 69,58 67,58 Z" />
+    <path
+        android:fillColor="#E9C46A"
+        android:pathData="M 68,63 C 71,61 74,63 73,66 C 71,66 69,65 68,63 Z" />
+    <path
+        android:fillColor="#E9C46A"
+        android:pathData="M 67,65 C 64,63 64,67 66,69 C 67,68 67,66 67,65 Z" />
+    <path
+        android:fillColor="#E9C46A"
+        android:pathData="M 68,70 C 72,68 74,71 73,74 C 71,73 69,72 68,70 Z" />
+    <path
+        android:fillColor="#E9C46A"
+        android:pathData="M 68,73 C 65,71 64,75 66,77 C 67,76 68,74 68,73 Z" />
+
+</vector>
